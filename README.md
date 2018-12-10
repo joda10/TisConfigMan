@@ -1,0 +1,2 @@
+# TisConfigMan
+Smorgasbord TisConfigMan
